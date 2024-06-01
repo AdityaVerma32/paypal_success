@@ -25,3 +25,11 @@ if(!empty($_GET['tx']) && $_GET['st'] && $_GET['amt'] && $_GET['item_number'] &&
 }
 
 ?>
+
+<html>
+    <body>
+        <h1>
+            Hello world!
+        </h1>
+    </body>
+</html>
